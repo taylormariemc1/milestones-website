@@ -5,4 +5,16 @@ h1{
   text-transform: uppercase;
   color:#9FADFF;
   font-family: 'Lexend Deca', sans-serif;
+text-align: center;
+}
+h2 {
+  color: #97bf90;
+  font-size: 28px;
+  text-align: center;
+}
+p {
+  color: #97c1bb
+  font-family: Arial;
+  text-indent:12px;
+  word-spacing: 3px;
 }
